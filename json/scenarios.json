@@ -1,0 +1,79 @@
+{
+  "Severe Market Downturn": {
+    "description": "A significant decline in major stock markets, affecting asset values and investment portfolios.",
+    "impact": "High",
+    "probability": "Medium",
+    "potential_effects": [
+      "Decrease in asset values",
+      "Increased market volatility",
+      "Reduced liquidity in financial markets",
+      "Potential increase in loan defaults"
+    ]
+  },
+  "Major Regulatory Change": {
+    "description": "Implementation of new, stringent financial regulations affecting capital requirements and reporting standards.",
+    "impact": "High",
+    "probability": "Medium",
+    "potential_effects": [
+      "Increased compliance costs",
+      "Need for system upgrades",
+      "Potential restructuring of certain business lines",
+      "Changes in risk management practices"
+    ]
+  },
+  "Global Economic Recession": {
+    "description": "A prolonged period of economic decline affecting multiple countries and sectors.",
+    "impact": "High",
+    "probability": "Low",
+    "potential_effects": [
+      "Decreased consumer spending and business investment",
+      "Increased unemployment rates",
+      "Higher loan default rates",
+      "Potential sovereign debt issues"
+    ]
+  },
+  "Major Cybersecurity Breach": {
+    "description": "A large-scale cyber attack compromising sensitive customer data and critical systems.",
+    "impact": "High",
+    "probability": "Medium",
+    "potential_effects": [
+      "Reputational damage",
+      "Legal and regulatory consequences",
+      "Financial losses from theft or fraud",
+      "Operational disruptions"
+    ]
+  },
+  "Significant Interest Rate Change": {
+    "description": "A sudden and substantial change in interest rates by central banks.",
+    "impact": "Medium",
+    "probability": "Medium",
+    "potential_effects": [
+      "Changes in net interest margins",
+      "Repricing of assets and liabilities",
+      "Shifts in consumer borrowing and saving behavior",
+      "Potential impact on currency exchange rates"
+    ]
+  },
+  "Natural Disaster or Pandemic": {
+    "description": "A major natural disaster or global health crisis affecting multiple regions.",
+    "impact": "High",
+    "probability": "Low",
+    "potential_effects": [
+      "Disruption to business operations",
+      "Increased insurance claims",
+      "Changes in consumer behavior and spending patterns",
+      "Potential government interventions affecting markets"
+    ]
+  },
+  "Liquidity Crisis": {
+    "description": "A sudden shortage of cash or easily convertible assets in the financial system.",
+    "impact": "High",
+    "probability": "Low",
+    "potential_effects": [
+      "Difficulty in meeting short-term obligations",
+      "Increased borrowing costs",
+      "Potential asset fire sales",
+      "Contagion effects across financial institutions"
+    ]
+  }
+}

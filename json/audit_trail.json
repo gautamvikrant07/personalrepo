@@ -1,0 +1,27 @@
+[
+  {
+    "action": "User login",
+    "user": "john_doe",
+    "time": "2023-04-15T10:30:00"
+  },
+  {
+    "action": "Report generated",
+    "user": "jane_smith",
+    "time": "2023-04-15T11:45:00"
+  },
+  {
+    "action": "Data updated",
+    "user": "admin",
+    "time": "2023-04-15T14:15:00"
+  },
+  {
+    "action": "Compliance check performed",
+    "user": "compliance_officer",
+    "time": "2023-04-15T16:00:00"
+  },
+  {
+    "action": "System backup",
+    "user": "system",
+    "time": "2023-04-15T23:00:00"
+  }
+]

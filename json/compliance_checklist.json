@@ -1,0 +1,66 @@
+[
+  {
+    "task": "Annual report filed",
+    "completed": true
+  },
+  {
+    "task": "KYC procedures updated",
+    "completed": false
+  },
+  {
+    "task": "Staff training completed",
+    "completed": true
+  },
+  {
+    "task": "Risk assessment performed",
+    "completed": false
+  },
+  {
+    "task": "Data privacy audit conducted",
+    "completed": true
+  },
+  {
+    "task": "Basel III capital requirements met",
+    "completed": true
+  },
+  {
+    "task": "Stress testing conducted",
+    "completed": true
+  },
+  {
+    "task": "FATCA reporting completed",
+    "completed": false
+  },
+  {
+    "task": "AML transaction monitoring system updated",
+    "completed": true
+  },
+  {
+    "task": "GDPR compliance audit performed",
+    "completed": false
+  },
+  {
+    "task": "Liquidity Coverage Ratio (LCR) calculated",
+    "completed": true
+  },
+  {
+    "task": "Volcker Rule compliance verified",
+    "completed": false
+  },
+  {
+    "task": "CCAR (Comprehensive Capital Analysis and Review) submitted",
+    "completed": true
+  },
+  {
+    "task": "BCBS 239 risk data aggregation implemented",
+    "completed": false
+  },
+  {
+    "task": "MiFID II transaction reporting reviewed",
+    "completed": true
+  },
+  {
+    "task": "Dodd-Frank Act stress testing completed",
+    "completed": false
+  }
+]
